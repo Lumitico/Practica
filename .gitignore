@@ -1,0 +1,51 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Archivo: .gitignore (en tu carpeta de Spring)
+
+# Archivos compilados (Importante no subir esto)
+/target/
+/build/
+*.class
+
+# Archivos de log
+*.log
+
+# Configuraciones de IDE (No obligar a tu equipo a usar tu mismo IDE)
+.idea/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+3. Contenido pa
